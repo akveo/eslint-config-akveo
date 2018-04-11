@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-akveo",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akveo/eslint-config-akveo.git"
+  },
+  "author": "Akveo LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akveo/eslint-config-akveo/issues"
+  },
+  "homepage": "https://github.com/akveo/eslint-config-akveo#readme"
+}

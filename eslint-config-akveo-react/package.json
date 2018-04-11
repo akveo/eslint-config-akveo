@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-akveo-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akveo/eslint-config-akveo.git"
+  },
+  "author": "Akveo LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akveo/eslint-config-akveo/issues"
+  },
+  "homepage": "https://github.com/akveo/eslint-config-akveo#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^16.1.0"
+  },
+  "engines": {
+    "node": ">= 4"
+  }
+}
