@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/akveo/eslint-config-akveo#readme",
   "dependencies": {
-    "eslint-config-airbnb": "^16.1.0"
+    "eslint-config-airbnb-base": "^12.1.0"
   },
   "engines": {
     "node": ">= 4"
