@@ -6,6 +6,7 @@ module.exports = {
   ].map(require.resolve),
 
   rules: {
+    'no-use-before-define': 0,
     'react/prefer-stateless-function': 0,
     'react/jsx-filename-extension': [
       'error',

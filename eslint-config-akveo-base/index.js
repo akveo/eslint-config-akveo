@@ -7,6 +7,8 @@ module.exports = {
   rules: {
     'class-methods-use-this': 0,
     'import/prefer-default-export': 0,
-    'import/no-named-default': 0
+    'import/no-named-default': 0,
+    'global-require': 0,
+    'arrow-parens': 0,
   }
 };
