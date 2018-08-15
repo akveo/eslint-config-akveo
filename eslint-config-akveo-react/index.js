@@ -15,6 +15,13 @@ module.exports = {
           '.js'
         ]
       }
+    ],
+    'react/jsx-closing-bracket-location': [
+      'warn',
+      {
+        'selfClosing': 'tag-aligned',
+        'nonEmpty': 'after-props'
+      }
     ]
   }
 };
