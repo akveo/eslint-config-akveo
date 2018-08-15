@@ -1,6 +1,7 @@
 {
   "name": "eslint-config-akveo-react",
   "version": "1.0.0",
+  "description": "Akveo's JS ESLint config for react, following our styleguide",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
