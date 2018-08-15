@@ -1,6 +1,7 @@
 {
   "name": "eslint-config-akveo-react-native",
   "version": "1.0.0",
+  "description": "Akveo's JS ESLint config for react-native, following our styleguide",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
